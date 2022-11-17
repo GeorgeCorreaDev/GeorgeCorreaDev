@@ -1,7 +1,11 @@
 ## Hello my name is George 🤟
+
 ### </> Full stack 
 #### New profile  ☄️ 
 I think! soon I write, my life is a code...
+
+![George GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeCorreaDev&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeCorreaDev&theme=blue-green)](https://github.com/GeorgeCorreaDev/github-readme-stats)
 #### ☢️ Libertarian, 🔏 Chypherpunk,♥️ Bockchain ₿itcoin, 🐰 Hacking and Hardwarehaking " I'll show you how deep the rabbit hole goes"🕳 .
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
@@ -18,7 +22,6 @@ I think! soon I write, my life is a code...
 ![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
-
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -31,8 +34,7 @@ I think! soon I write, my life is a code...
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
    
-![George GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeCorreaDev&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeCorreaDev&theme=blue-green)](https://github.com/GeorgeCorreaDev/github-readme-stats)
+
 
 ### Follow me!
 
