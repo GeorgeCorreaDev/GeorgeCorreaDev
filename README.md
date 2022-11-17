@@ -2,11 +2,12 @@
 
 ### </> Full stack 
 #### New profile  ☄️ 
-I think! soon I write, my life is a code...
+I think! soon I write, my life is a code...<br/>
+🐰" I'll show you how deep the rabbit hole goes"🕳
 
 ![George GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeCorreaDev&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeCorreaDev&theme=blue-green)](https://github.com/GeorgeCorreaDev/github-readme-stats)
-#### ☢️ Libertarian, 🔏 Chypherpunk,♥️ Bockchain ₿itcoin, 🐰 Hacking and Hardwarehaking " I'll show you how deep the rabbit hole goes"🕳 .
+#### ☢️ Libertarian, 🔏 Chypherpunk,♥️ Bockchain ₿itcoin, Hacking and Hardwarehaking.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
