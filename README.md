@@ -36,13 +36,13 @@
 
 
    ### Tools
+   ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
    ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ### Service Cloud
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+### Studying in this moment
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 #### ☢️ Libertarian, 🔏 Cypherpunk,♥️ Bockchain ₿itcoin,🏴 Hacktivism
@@ -60,6 +60,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GeorgeCorreaDev}/count.svg" /></p> 
 <br></div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57f806&size=35&center=true&vCenter=true&width=1000&lines=How+Deep+Does+The+Rabbit+Hole+Go?;+++;I'll+show+you+how+far+the+rabbit+hole+goes;Freedom,+truth,+peace+or+maybe+love?;++;They+are+illusions,;+;fantasies+of+perception,;+;+temporary+syntheses+of+a+feeble+human+intellect;desperately+trying+to+explain+an+existence;without+meaning+or+purpose.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57f806&size=35&center=true&vCenter=true&width=1000&lines=How+Deep+Does+The+Rabbit+Hole+Go?;+++;Unfortunately,+no+one+can+know+what+the+Matrix+is.;++;You+have+to+see+it+for+yourself.;++;I'll+show+you+how+far+the+rabbit+hole+goes;Freedom,+truth,+peace+or+maybe+love?;++;They+are+illusions,;+;fantasies+of+perception,;+;+temporary+syntheses+of+a+feeble+human+intellect;desperately+trying+to+explain+an+existence;without+meaning+or+purpose.;)](https://git.io/typing-svg)
 <br/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f7fd2f&height=120&section=footer"/>Mr. Cyber Dark Soul
