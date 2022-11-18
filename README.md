@@ -54,7 +54,7 @@
 #### Udemy: Scrum Framework
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-#### ☢️ Libertarianism, 🔏 Cypherpunk.
+#### :godmode: Libertarianism, :suspect:Austrian School, :neckbeard: Cypherpunk, :trollface:  Free Market, :feelsgood: Decentralized Economy.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
