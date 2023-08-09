@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f7fd2f&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a9a9a2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+George+Corrêa;+++;I+from+Brazil,+SP;I'm+attending+college+computing+science;Development+Full+stack;Be+Welcome!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a9a9a2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+George+Corrêa;+++;I'm+from+Brazil,+SP;I'm+attending+college+computing+science;Development+Full+stack;Be+Welcome!;)](https://git.io/typing-svg)
 <br/>
 
 ![George GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeCorreaDev&show_icons=true&theme=dark)
@@ -77,48 +77,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57f806&size=35&center=true&vCenter=true&width=1000&lines=How+Deep+Does+The+Rabbit+Hole+Go?;+++;Unfortunately,+no+one+can+know+what+the+Matrix+is.;++;You+have+to+see+it+for+yourself.;++;I'll+show+you+how+far+the+rabbit+hole+goes;Freedom,+truth,+peace+or+maybe+love?;++;They+are+illusions,;+;fantasies+of+perception,;+;+temporary+syntheses+of+a+feeble+human+intellect;desperately+trying+to+explain+an+existence;without+meaning+or+purpose.;)](https://git.io/typing-svg)
 <br/>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f7fd2f&height=120&section=footer"/>Mr. Cyber Dark Soul
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f7fd2f&height=120&section=footer"/>
 
 
 
-
-
-
-
-
-
-⡏⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⣉⣩⣭⣉⣉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉⠉
-⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡴⠋⢁⣀⠀⣀⡈⠙⢢⡀⠀⠒⠒⠂⣀⡤⠖⠒⠒⠒⠢⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠏⠀⢰⣿⣿⡿⠛⠃⠀⠀⣹⠀⠀⠀⠸⡇⠀⠀⢰⣶⣤⣀⠀⠱⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⠀⠀⣾⠏⠉⠁⠀⢀⡠⠞⠋⠀⠀⠀⠀⠻⣄⠀⠀⠨⢿⣿⡷⠄⠸⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡤⠿⡀⠈⠀⢀⣀⠤⠚⠉⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⠀⠀⠹⣷⡆⢀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⠀⠀⠀⠀⢀⡴⠋⠁⠀⢀⠝⠋⠙⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⡀⠀⠀⡼⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⠀⠀⠀⢠⢏⣴⠀⢀⡞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠓⠚⠙⠢⡀⠀⡀⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⠀⠀⢀⡏⡞⢸⡄⠨⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⡀⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⠀⠀⠸⡇⡇⢸⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡖⢳⡄⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⠀⠀⠀⡇⣷⠈⠉⢷⠀⢠⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⡧⣾⠃⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⠀⠀⠀⢸⡘⡆⠀⠙⣆⠀⠈⠑⠦⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⡤⠞⠋⢰⣿⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⠀⠀⠀⠀⣳⣳⠀⠀⠘⣆⠀⠀⠀⠀⠉⠙⠛⠿⠶⢤⣤⠤⠤⠤⠤⠶⠆⠐⠂⠀⠀⠀⠀⠀⠀⠀⠀⣼⢏⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⢀⣠⠴⠚⢉⣡⣡⡁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣯⠇⢀⡄⠀⠀⠀⠀⠀
-⣇⡤⠖⣉⣀⣠⣴⠞⠋⠁⣷⠐⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⢞⠗⠁⣠⠟⠀⠀⠀⠀⠀⠀
-⡧⣚⠿⠛⠉⠊⠁⠀⠀⠀⣿⡄⢈⢳⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠂⠁⠀⠈⠁⣀⠔⠁⠀⠀⠀⠀
-⡏⠁⠀⠀⠀⠀⠀⠀⠀⢀⣿⣇⠀⠳⡑⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡾⠛⠁⠀⠀⢀⡠⠖⠉⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⠀⠀⡀⢀⠀⠰⢾⣿⡀⠀⠙⣆⠣⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠞⣿⠇⠀⠀⠀⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⡠⠊⠁⠀⠀⠘⠈⣿⣧⠀⠀⠹⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠃⢀⡇⠀⠀⠀⠸⡿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⡠⠊⠀⠀⠀⠀⠀⠀⠀⠹⣿⡀⠀⠀⠈⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠃⠀⠘⡆⠀⠀⠀⠀⠘⠼⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣧⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠃⠀⢄⠀⣧⠀⠀⠀⠀⠀⠀⢣⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⢀⣀⡤⠤⠴⢲⠃⠀⠀⠈⠳⢦⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠁⠀⠀⠈⢧⢹⡄⠀⠀⠀⠀⠀⠘⡆⠀⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠈⠉⠉⠀⠀⠀⢀⠏⠀⠀⠀⠀⠀⠀⠈⠀⠉⠙⠒⠒⠒⠀⠐⠒⠀⠀⠀⠀⠀⠀⠈⠀⢷⠀⠀⠀⠀⠀⠀⢳⠀⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⠀⠀⠀⢀⡞⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣀⠀⠀⠀⠀⠘⡇⠀⠀⠀⠀⠀⠘⡆⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⠀⠀⠀⡼⠀⠀⠀⠀⠀⠀⣠⠴⡄⠀⠀⠀⠀⠀⠀⡀⠀⠀⠀⠀⢸⣿⣷⣤⡀⠀⠀⢻⡄⠀⠀⠀⠀⠀⢹⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⠀⠀⡼⠁⠀⠀⠀⠀⣠⠞⠁⠀⡇⠀⠀⠀⠀⠀⢠⣧⠀⠀⠀⠀⣾⡟⠛⠉⠙⠳⢦⣄⣧⠀⠀⠀⠀⠀⠈⠧⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⠀⣼⠃⠀⠀⢀⡴⠊⠀⠀⠀⠀⡇⠀⠀⠀⠀⢀⡟⠸⡇⠀⠀⢸⠛⣧⠀⠀⠀⠀⠀⠈⢻⡀⠀⠀⠀⠀⠀⠀⠄⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⣸⠃⠀⢀⡴⠋⠀⠀⠀⠀⠀⢠⡇⠀⠀⠀⠀⣼⠁⢰⢿⠀⠀⡏⠀⠘⣷⡄⠀⠀⠀⠀⠀⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠸⡏⢀⡴⠋⠀⠀⠀⠀⠀⠀⠀⢘⡇⠀⠀⠀⣰⠃⡀⡀⢸⡇⠀⡇⠀⠀⣸⣷⡀⠀⠀⠀⠀⠘⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⡷⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠨⡇⠀⠀⢰⠃⠀⠀⠀⢸⡇⢸⢃⣤⣾⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⣰⠏⠀⠀⠀⠀⢹⡇⣼⣿⣿⡿⠉⠀⠹⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠇⣰⠋⠀⠀⠀⠀⠀⠈⢡⣿⡿⠟⠀⠀⠀⠀⠙⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠀⠀⠀⠀⠀⠀⠀⢘⣿⠧⠀⠀⠀⠀⠀⠀⠒⠛⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⡿⠀⠀⠀⢀⣸⣥⡤⠶⠒⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⣇⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣠⣭⣥⣽⣶⣿⣿⣷⣦⣤⣤⣤⣤⣤⣦⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
-# Surprise!
