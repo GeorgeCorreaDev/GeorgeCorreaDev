@@ -54,7 +54,8 @@ Currently, I’m the **Founder & CTO** at **[ThreePoints Technology](https://thr
 
 ---
 
-### 🎓 Currently Learning  
+### 🎓 Currently Studying  
+- **Faculdade SENAI – São Caetano do Sul** – **Data Science**  
 - **Harvard CS50** – Computer Science Fundamentals  
 - **Blockchain Protocols & Smart Contracts**  
 - **Advanced RPA Architecture & AI Agent Orchestration**  
@@ -72,8 +73,8 @@ Currently, I’m the **Founder & CTO** at **[ThreePoints Technology](https://thr
 
 ### 🧩 Philosophy  
 
-> *“Technology is not about replacing humans — it's about amplifying what makes us human.  
-> True innovation emerges when we bridge logic and imagination, precision and chaos.”*  
+> *“Technology doesn’t exist to replace humans — it exists to amplify what makes us human.  
+> True innovation begins where logic meets imagination, and precision meets chaos.”*  
 > — **George Corrêa**
 
 ---
