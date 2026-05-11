@@ -26,13 +26,11 @@ Currently, I’m the **Founder & CTO** at **[ThreePoints Technology](https://thr
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)  
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)  
 
 #### ⚙️ Frameworks & Platforms  
 ![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
 ![](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-![](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)   
 ![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
@@ -47,13 +45,6 @@ Currently, I’m the **Founder & CTO** at **[ThreePoints Technology](https://thr
 
 ---
 
-### 📈 GitHub Analytics  
-
-![George GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorgeCorreaDev&show_icons=true&theme=tokyonight)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeCorreaDev&layout=compact&theme=tokyonight)](https://github.com/GeorgeCorreaDev/github-readme-stats)  
-
----
-
 ### 🎓 Currently Studying  
 - **Faculdade SENAI – São Caetano do Sul** – **Data Science**  
 - **Harvard CS50** – Computer Science Fundamentals  
@@ -65,9 +56,8 @@ Currently, I’m the **Founder & CTO** at **[ThreePoints Technology](https://thr
 
 ### 🌐 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/george-augusto-corr%C3%AAa-35213a22b)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/george-correa-3pt)  
 [![ThreePoints](https://img.shields.io/badge/ThreePoints_Technology-00C9A7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://threepointstechnology.com.br/)  
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/mrcyberdarksoul)  
 
 ---
 
